@@ -1,0 +1,4 @@
+group_size: 10
+deviation_percent: 10
+sp_gr_latency: 50
+sp_gr_skill: 50
